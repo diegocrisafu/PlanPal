@@ -88,7 +88,6 @@ a {
 /* ===== Hero Section ===== */
 .hero {
     min-height: 100vh;
-    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -208,13 +207,6 @@ a {
     right: 12%;
     width: 135px;
     transform: rotate(-10deg);
-}
-
-/* ===== Center Cursor ===== */
-.center-cursor {
-    position: absolute;
-    z-index: 5;
-    animation: float 3s ease-in-out infinite;
 }
 
 @keyframes float {

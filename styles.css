@@ -149,64 +149,132 @@ a {
 .photo-1 {
     top: 8%;
     left: 5%;
-    width: 180px;
+    width: 260px;
     transform: rotate(-12deg);
 }
 
 .photo-2 {
     top: 5%;
     left: 25%;
-    width: 140px;
+    width: 200px;
     transform: rotate(8deg);
 }
 
 .photo-3 {
     top: 12%;
     right: 25%;
-    width: 160px;
+    width: 230px;
     transform: rotate(-5deg);
 }
 
 .photo-4 {
     top: 8%;
     right: 5%;
-    width: 150px;
+    width: 220px;
     transform: rotate(15deg);
 }
 
 .photo-5 {
     top: 35%;
     left: 8%;
-    width: 130px;
+    width: 190px;
     transform: rotate(10deg);
 }
 
 .photo-6 {
     top: 40%;
     right: 8%;
-    width: 140px;
+    width: 200px;
     transform: rotate(-8deg);
 }
 
 .photo-7 {
     bottom: 25%;
     left: 15%;
-    width: 120px;
+    width: 180px;
     transform: rotate(-15deg);
 }
 
 .photo-8 {
     bottom: 20%;
     left: 40%;
-    width: 150px;
+    width: 220px;
     transform: rotate(5deg);
 }
 
 .photo-9 {
     bottom: 18%;
     right: 12%;
-    width: 135px;
+    width: 195px;
     transform: rotate(-10deg);
+}
+
+/* ===== Fun Section Photo Positions ===== */
+.hero-fun {
+    background: var(--light-bg);
+}
+
+.photo-fun-1 {
+    top: 8%;
+    left: 6%;
+    width: 250px;
+    transform: rotate(8deg);
+}
+
+.photo-fun-2 {
+    top: 6%;
+    left: 28%;
+    width: 210px;
+    transform: rotate(-10deg);
+}
+
+.photo-fun-3 {
+    top: 10%;
+    right: 22%;
+    width: 240px;
+    transform: rotate(6deg);
+}
+
+.photo-fun-4 {
+    top: 6%;
+    right: 6%;
+    width: 225px;
+    transform: rotate(-12deg);
+}
+
+.photo-fun-5 {
+    top: 38%;
+    left: 6%;
+    width: 195px;
+    transform: rotate(-8deg);
+}
+
+.photo-fun-6 {
+    top: 42%;
+    right: 6%;
+    width: 210px;
+    transform: rotate(10deg);
+}
+
+.photo-fun-7 {
+    bottom: 22%;
+    left: 12%;
+    width: 185px;
+    transform: rotate(12deg);
+}
+
+.photo-fun-8 {
+    bottom: 18%;
+    left: 38%;
+    width: 225px;
+    transform: rotate(-6deg);
+}
+
+.photo-fun-9 {
+    bottom: 20%;
+    right: 10%;
+    width: 200px;
+    transform: rotate(8deg);
 }
 
 @keyframes float {
